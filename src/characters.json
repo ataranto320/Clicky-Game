@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Mario",
+        "image":
+          "../imgs/mario.png"
+      },
+      {
+        "id": 2,
+        "name": "Link",
+        "image":
+          "../imgs/link.png"
+      },
+      {
+        "id": 3,
+        "name": "Yoshi",
+        "image":
+          "../imgs/yoshi.png"
+      },
+      {
+        "id": 4,
+        "name": "Fox",
+        "image":
+          "../imgs/fox.png"
+      },
+      {
+        "id": 5,
+        "name": "Kirby",
+        "image":
+          "../imgs/kirby.png"
+      },
+      {
+        "id": 6,
+        "name": "Pikachu",
+        "image":
+          "../imgs/pikachu.png"
+      },
+      {
+        "id": 7,
+        "name": "DonkeyKong",
+        "image":
+          "../imgs/dk.png"
+      },
+      {
+        "id": 8,
+        "name": "Samus",
+        "image":
+          "../imgs/samus.png"
+      },
+      {
+        "id": 9,
+        "name": "Luigi",
+        "image":
+          "../imgs/luigi.png"
+      },
+      {
+        "id": 10,
+        "name": "CaptainFalcon",
+        "image":
+          "../imgs/captain falcon.png"
+      },
+      {
+        "id": 11,
+        "name": "Ness",
+        "image":
+          "../imgs/ness.png"
+      },
+      {
+        "id": 12,
+        "name": "Jigglypuff",
+        "image":
+          "../imgs/jigglypuff.png"
+      }
+]
