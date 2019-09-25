@@ -2,73 +2,73 @@
     {
         "id": 1,
         "name": "Mario",
-        "image":
-          "../imgs/mario.png"
+        "images":
+          "/images/mario.png"
       },
       {
         "id": 2,
         "name": "Link",
-        "image":
-          "../imgs/link.png"
+        "images":
+          "/images/link.png"
       },
       {
         "id": 3,
         "name": "Yoshi",
-        "image":
-          "../imgs/yoshi.png"
+        "images":
+          "/images/yoshi.png"
       },
       {
         "id": 4,
         "name": "Fox",
-        "image":
-          "../imgs/fox.png"
+        "images":
+          "/images/fox.png"
       },
       {
         "id": 5,
         "name": "Kirby",
-        "image":
-          "../imgs/kirby.png"
+        "images":
+          "/images/kirby.png"
       },
       {
         "id": 6,
         "name": "Pikachu",
-        "image":
-          "../imgs/pikachu.png"
+        "images":
+          "/images/pikachu.png"
       },
       {
         "id": 7,
         "name": "DonkeyKong",
-        "image":
-          "../imgs/dk.png"
+        "images":
+          "/images/dk.png"
       },
       {
         "id": 8,
         "name": "Samus",
-        "image":
-          "../imgs/samus.png"
+        "images":
+          "/images/samus.png"
       },
       {
         "id": 9,
         "name": "Luigi",
-        "image":
-          "../imgs/luigi.png"
+        "images":
+          "/images/luigi.png"
       },
       {
         "id": 10,
         "name": "CaptainFalcon",
-        "image":
-          "../imgs/captain falcon.png"
+        "images":
+          "/images/captain falcon.png"
       },
       {
         "id": 11,
         "name": "Ness",
-        "image":
-          "../imgs/ness.png"
+        "images":
+          "/images/ness.png"
       },
       {
         "id": 12,
         "name": "Jigglypuff",
-        "image":
-          "../imgs/jigglypuff.png"
+        "images":
+          "/images/jigglypuff.png"
       }
 ]

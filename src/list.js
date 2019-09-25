@@ -4,9 +4,9 @@ import React from "react";
 function list(props) {
   return (
     <ul className="character-list">
-      {props.characters.map(item => (
-        <li className="character-list-item" key={item.id}>
-          {item.name}
+      {props.characters.map(characters => (
+        <li className="character-list-item" key={characters.id}>
+          {characters.name}
         </li>
       ))}
     </ul>

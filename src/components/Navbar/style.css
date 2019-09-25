@@ -1,0 +1,44 @@
+.navbar-light .navbar-nav .active>.nav-link {
+    color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(88, 88, 88);
+}
+
+.ks-nav {
+    font-size: 1.8rem;
+    padding: 0;
+}
+.navbar-center
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+}
+.navbar-nav li:last-child a {
+    border: none;
+}
+.navbar-nav {
+    width: 33.333%;
+}
+.navbar {
+    overflow: hidden;
+    padding: 0px 25px;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    border-bottom: 5px solid red;
+    background-color: transparent;
+    background: transparent;
+
+};
+#hover-nav{
+  background-color: transparent;
+}
+.navbar:hover {
+  background-color: red;
+}
