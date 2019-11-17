@@ -1,3 +1,11 @@
+React app memory game based on video game hit: Super Smash Bros
+
+- React
+- HTML
+- CSS
+
+Notes for project and general notes for React Apps below:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
