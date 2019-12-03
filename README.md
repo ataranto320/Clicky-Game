@@ -1,8 +1,10 @@
 React app memory game based on video game hit: Super Smash Bros
 
-Deployed Link: 
+Directions:
 
-https://ataranto320.github.io/Clicky-Game/
+Git clone from github page.
+Run npm start in terminal which will open http://localhost:3000.
+Play and enjoy!
 
 - React
 - HTML
