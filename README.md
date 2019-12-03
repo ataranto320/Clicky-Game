@@ -1,5 +1,11 @@
 React app memory game based on video game hit: Super Smash Bros
 
+Directions:
+
+1. Git clone from github page
+2. Run npm start in terminal
+3. Play and enjoy!
+
 - React
 - HTML
 - CSS
