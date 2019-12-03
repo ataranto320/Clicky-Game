@@ -2,9 +2,9 @@ React app memory game based on video game hit: Super Smash Bros
 
 Directions:
 
-Git clone from github page.
-Run npm start in terminal which will open http://localhost:3000.
-Play and enjoy!
+1. Git clone from github page.
+2. Run npm start in terminal which will open http://localhost:3000.
+3. Play and enjoy!
 
 - React
 - HTML
