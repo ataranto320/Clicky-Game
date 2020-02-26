@@ -6,6 +6,8 @@ Directions:
 2. Run npm start in terminal which will open http://localhost:3000.
 3. Play and enjoy!
 
+![](public/images/clicky.png)
+
 - React
 - HTML
 - CSS
