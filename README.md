@@ -8,9 +8,11 @@ Directions:
 
 ![](public/images/clicky.png)
 
-- React
-- HTML
+Languages:
+
+- HTML5
 - CSS
+- React
 
 Notes for project and general notes for React Apps below:
 
