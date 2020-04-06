@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "acorn": "^7.1.1",
     "eslint-utils": "^1.4.3",
     "handlebars": "^4.7.6",
     "kind-of": "^6.0.3",
